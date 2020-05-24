@@ -15,4 +15,4 @@
 
 
 
-## [Выполнить программу](https://extrasmalldefinitesite.gudkin777.run/)
+## [Выполнить программу](https://practicksabaev.gudkin777.repl.run)
