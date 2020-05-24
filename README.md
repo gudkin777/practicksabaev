@@ -42,3 +42,5 @@ class Main {
 ```
 
 ## [Выполнить программу](https://practicksabaev.gudkin777.repl.run)
+
+##[Видео запуска программы](https://github.com/gudkin777/practicksabaev/blob/master/bandicam%202020-05-24%2016-11-11-932.mp4)
