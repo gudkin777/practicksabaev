@@ -41,4 +41,4 @@ class Main {
 
 ```
 
-## [Выполнить программу](https://ExtrasmallDefiniteSite.dimashumihin.repl.run)
+## [Выполнить программу](https://practicksabaev.gudkin777.repl.run)
